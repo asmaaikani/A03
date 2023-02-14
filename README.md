@@ -33,3 +33,8 @@
 - **Pull**: Requests let you tell others about changes you've pushed to a branch in a repository on GitHub
 - **Remote**: Remote repositories are versions of your project that are hosted on the Internet or network somewhere
 - **Repository**: A repository contains all of your project's files and each file's revision history 
+
+
+Refrences:
+- IntroToGitHub-20190318.pptx on Canvas
+- https://docs.github.com/en (for glossary definitions)
