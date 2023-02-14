@@ -32,4 +32,4 @@
 - **Push**: Updates the remote branch with local commits
 - **Pull**: Requests let you tell others about changes you've pushed to a branch in a repository on GitHub
 - **Remote**: Remote repositories are versions of your project that are hosted on the Internet or network somewhere
-- **Repository**: A repository contains all of your project's files and each file's revision history
+- **Repository**: A repository contains all of your project's files and each file's revision history 
