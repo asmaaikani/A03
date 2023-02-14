@@ -3,21 +3,22 @@
 ## IS117002
 
 ### Directions for using Webstorm
-1. First step I did was install Webstorm from JetBrains
-2. Then I requested my license from Webstrom
-3. I got approved right away
-4. I then installed Git as a local Program from this website: https://git-scm.com/downloads
-5. I used the Mac OS X and then I downloaded on HOMEBREW
-6. I then copied the link into my terminal
-7. I then followed the steps that popped up for my terminal
-8. Steps kept coming up and I kept pressing enter and the terminal downloaded homebrew into my mac
+1. First step I did was open up the powerpoint slides of Git and Webstorm that has the steps for installing
+2. I then installed Webstorm from JetBrains
+3. Then I requested my license from Webstrom
+4. I got approved right away
+5. I then installed Git as a local Program from this website: https://git-scm.com/downloads
+6. I used the Mac OS X and then I downloaded on HOMEBREW
+7. I then copied the link into my terminal
+8. I then followed the steps that popped up for my terminal
+9. Steps kept coming up and I kept pressing enter and the terminal downloaded homebrew into my mac
 10. I already had a GitHub account so I didnt have to create one so I just had to connect my webstorm to my Github
 11. Then my terminal popped up and I typed in " pkgutil --file-info /usr/bin/git"
 12. My terminal printed the Path to Git executable
 13. Then I opened up preferences in webstrom
 14. Went to version control then git 
 15. Tapped the search box at the top 
-16. I pasted in what was given in my terminal after it printed "path:" which was "/usr/bin/git" and pressed "OK"
+16. I pasted in what was given in my terminal after it printed "path:" which was "/usr/bin/git" and pressed **"OK"**
 
 ### Glossary
 - **Branch**: Allow you to develop features, fix bugs, or safely experiment with new ideas in a contained area of your repository
